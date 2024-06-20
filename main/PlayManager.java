@@ -64,7 +64,6 @@ public class PlayManager {
         //currentMino
         if(currentMino != null) {
             currentMino.draw(g2);
-            System.out.println("Drawing currentMino at (" + currentMino.getX() + ", " + currentMino.getY() + ")");
         }
 
     }
