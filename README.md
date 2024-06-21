@@ -3,6 +3,7 @@ _**This is a mini project of Algorithms & Data Structures course.**_
 ### Table Of Content.
 
 - [***SIMPLE TETRIS***](#simple-tetris)
+  - [Table Of Content.](#table-of-content)
   - [1.Background](#1background)
     - [1.1 Student Information](#11-student-information)
     - [1.2 Introduction](#12-introduction)
@@ -49,6 +50,7 @@ This is the game i created for the project of Algorithm & Data Structures. Tetri
 | Rotate blocks | ↑ |
 | Drop: Soft| ↓ |
 | Drop: Hard | Space |
+| Pause |  P|
 #### 2.3 Game rules
 The game of Tetris is a classic puzzle game where players rotate and arrange falling blocks called Tetrominos to create a solid line without gaps. The game ends when the blocks reach the top of the playing field.
 ![Gameover](gameover.png)
