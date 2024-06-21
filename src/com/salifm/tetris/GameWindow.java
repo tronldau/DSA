@@ -1,4 +1,4 @@
-package src.salifm.tetris;
+package com.salifm.tetris;
 
 import java.awt.GridLayout;
 import javax.swing.JFrame;
@@ -12,7 +12,7 @@ public class GameWindow extends JFrame {
 
         setLayout(new GridLayout(1, 2));
 
-        // adjust timer resolution 
+        // you can adjust timer resolution here. but it's ideal value for this game.
         GameBoardPanel gameBoard = new GameBoardPanel(this, 400);
         add(gameBoard);
         gameBoard.start();

@@ -1,32 +1,26 @@
-## ***SIMPLE TETRIS***
+@ -2,102 +2,104 @@
 _**This is a mini project of Algorithms & Data Structures course.**_
 ### Table Of Content.
-- [***SIMPLE TETRIS***](#simple-tetris)
-  - [Table Of Content.](#table-of-content)
-  - [1.Background](#1background)
-    - [1.1 Student Information](#11-student-information)
-    - [1.2 Introduction](#12-introduction)
-    - [1.3 How to run](#13-how-to-run)
-  - [2.Game](#2game)
-    - [2.1: About the game](#21-about-the-game)
-    - [2.2 How to play](#22-how-to-play)
-    - [2.3 Game rules](#23-game-rules)
-  - [3.Algorithms \& Data Structures](#3algorithms--data-structures)
-  - [4.Class Diagrams](#4class-diagrams)
-    - [GameBoardPanel](#gameboardpanel)
-    - [Tetromino](#tetromino)
-    - [GameWindow](#gamewindow)
+- [Table Of Content.](#table-of-content)
+- [1.Background](#1background)
+  - [1.1 Student Information](#11-student-information)
+  - [1.2 Introduction](#12-introduction)
+  - [1.3 How to run](#13-how-to-run)
+- [2.Game](#2game)
+  - [2.1: About the game](#21-about-the-game)
+  - [2.2 How to play](#22-how-to-play)
+  - [2.3 Game rules](#23-game-rules)
+- [3.Algorithms \& Data Structures](#3algorithms--data-structures)
+- [4.Class Diagrams](#4class-diagrams)
+  - [GameBoardPanel](#gameboardpanel)
+  - [Tetromino](#tetromino)
+  - [GameWindow](#gamewindow)
 
 ### 1.Background
 #### 1.1 Student Information
-<<<<<<< HEAD
 - **Name:** Tran Quynh Nhu
 - **Student ID:** ITDSIU21105
 - **Mail:** ITDSIU21105@student.hcmiu.edu.vn
-=======
-**Name:** Tran Quynh Nhu
-**Student ID:** ITDSIU21105
->>>>>>> parent of 488357b (Update README.md)
 #### 1.2 Introduction
 This is the game i created for the project of Algorithm & Data Structures. Tetris (Russian: Тетрис[a]) is a puzzle video game created in 1985 by Alexey Pajitnov, a Soviet software engineer. In Tetris, players complete lines by moving differently shaped pieces (tetrominoes), which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared lines reach the top of the playing field. The longer the player can delay this outcome, the higher their score will be.
 

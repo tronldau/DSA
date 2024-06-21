@@ -1,4 +1,3 @@
-@ -0,0 +1,444 @@
 package com.salifm.tetris;
 
 import java.awt.Color;
@@ -19,8 +18,8 @@ import  javax.swing.UIManager;
 import com.salifm.tetris.Tetromino.Tetrominoes;
 
 public class GameBoardPanel extends JPanel implements ActionListener {
-    private static final int BoardWidth = 15;    
-    private static final int BoardHeight = 30;    
+    private static final int BoardWidth = 15;    // game board x size
+    private static final int BoardHeight = 30;    // game board y size
 
     // game status & timer
     private Timer timer;

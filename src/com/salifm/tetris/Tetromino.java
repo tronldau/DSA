@@ -1,4 +1,4 @@
-package src.salifm.tetris;
+package com.salifm.tetris;
 
 import java.util.Random;
 
