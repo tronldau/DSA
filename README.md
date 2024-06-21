@@ -23,6 +23,8 @@ _**This is a mini project of Algorithms & Data Structures course.**_
 **Student ID:** ITDSIU21105
 #### 1.2 Introduction
 This is the game i created for the project of Algorithm & Data Structures. Tetris (Russian: Тетрис[a]) is a puzzle video game created in 1985 by Alexey Pajitnov, a Soviet software engineer. In Tetris, players complete lines by moving differently shaped pieces (tetrominoes), which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared lines reach the top of the playing field. The longer the player can delay this outcome, the higher their score will be.
+
+![Simple Tetris](play_tetris.png)
 #### 1.3 How to run
 **Step 1:** Clone this Repository from GitHub.
 
@@ -48,6 +50,7 @@ This is the game i created for the project of Algorithm & Data Structures. Tetri
 | Drop: Hard | Space |
 #### 2.3 Game rules
 The game of Tetris is a classic puzzle game where players rotate and arrange falling blocks called Tetrominos to create a solid line without gaps. The game ends when the blocks reach the top of the playing field.
+![Gameover](gameover.png)
 ### 3.Algorithms & Data Structures
 The game implementation uses the following data structures and algorithms:
 
