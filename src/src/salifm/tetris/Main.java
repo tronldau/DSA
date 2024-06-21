@@ -1,4 +1,4 @@
-package com.salifm.tetris;
+package src.salifm.tetris;
 
 public class Main {
 
