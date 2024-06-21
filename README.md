@@ -1,20 +1,22 @@
-@ -2,102 +2,104 @@
+## ***SIMPLE TETRIS***
 _**This is a mini project of Algorithms & Data Structures course.**_
 ### Table Of Content.
-- [Table Of Content.](#table-of-content)
-- [1.Background](#1background)
-  - [1.1 Student Information](#11-student-information)
-  - [1.2 Introduction](#12-introduction)
-  - [1.3 How to run](#13-how-to-run)
-- [2.Game](#2game)
-  - [2.1: About the game](#21-about-the-game)
-  - [2.2 How to play](#22-how-to-play)
-  - [2.3 Game rules](#23-game-rules)
-- [3.Algorithms \& Data Structures](#3algorithms--data-structures)
-- [4.Class Diagrams](#4class-diagrams)
-  - [GameBoardPanel](#gameboardpanel)
-  - [Tetromino](#tetromino)
-  - [GameWindow](#gamewindow)
+
+- [***SIMPLE TETRIS***](#simple-tetris)
+  - [Table Of Content.](#table-of-content)
+  - [1.Background](#1background)
+    - [1.1 Student Information](#11-student-information)
+    - [1.2 Introduction](#12-introduction)
+    - [1.3 How to run](#13-how-to-run)
+  - [2.Game](#2game)
+    - [2.1: About the game](#21-about-the-game)
+    - [2.2 How to play](#22-how-to-play)
+    - [2.3 Game rules](#23-game-rules)
+  - [3.Algorithms \& Data Structures](#3algorithms--data-structures)
+  - [4.Class Diagrams](#4class-diagrams)
+    - [GameBoardPanel](#gameboardpanel)
+    - [Tetromino](#tetromino)
+    - [GameWindow](#gamewindow)
 
 ### 1.Background
 #### 1.1 Student Information
