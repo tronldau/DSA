@@ -2,7 +2,6 @@
 _**This is a mini project of Algorithms & Data Structures course.**_
 ### Table Of Content.
 - [***SIMPLE TETRIS***](#simple-tetris)
-  - [Table Of Content.](#table-of-content)
   - [1.Background](#1background)
     - [1.1 Student Information](#11-student-information)
     - [1.2 Introduction](#12-introduction)
