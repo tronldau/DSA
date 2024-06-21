@@ -2,7 +2,6 @@
 _**This is a mini project of Algorithms & Data Structures course.**_
 ### Table Of Content.
 - [***SIMPLE TETRIS***](#simple-tetris)
-  - [Table Of Content.](#table-of-content)
   - [1.Background](#1background)
     - [1.1 Student Information](#11-student-information)
     - [1.2 Introduction](#12-introduction)
@@ -21,7 +20,6 @@ _**This is a mini project of Algorithms & Data Structures course.**_
 #### 1.1 Student Information
 - **Name:** Tran Quynh Nhu
 - **Student ID:** ITDSIU21105
-- **Mail:** ITDSIU21105@student.hcmiu.edu.vn
 #### 1.2 Introduction
 This is the game i created for the project of Algorithm & Data Structures. Tetris (Russian: Тетрис[a]) is a puzzle video game created in 1985 by Alexey Pajitnov, a Soviet software engineer. In Tetris, players complete lines by moving differently shaped pieces (tetrominoes), which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared lines reach the top of the playing field. The longer the player can delay this outcome, the higher their score will be.
 
