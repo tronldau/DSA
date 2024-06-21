@@ -1,3 +1,7 @@
+/* Name: Trần Quỳnh Như
+ID: ITDSIU21105 
+Purpose:GameBoardPanel   
+*/ 
 package com.salifm.tetris;
 
 import java.awt.Color;
