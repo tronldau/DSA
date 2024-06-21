@@ -1,4 +1,5 @@
-package src.salifm.tetris;
+@ -0,0 +1,444 @@
+package com.salifm.tetris;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -15,7 +16,7 @@ import javax.swing.Timer;
 import javax.swing.JOptionPane;
 import  javax.swing.UIManager;
 
-import src.salifm.tetris.Tetromino.Tetrominoes;
+import com.salifm.tetris.Tetromino.Tetrominoes;
 
 public class GameBoardPanel extends JPanel implements ActionListener {
     private static final int BoardWidth = 15;    
