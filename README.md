@@ -36,7 +36,7 @@ This is the game i created for the project of Algorithm & Data Structures. Tetri
 
     git status
 
-**Step 3:** Run the game and play.
+**Step 3:** Run the game in Main.java and play.
 ### 2.Game
 #### 2.1: About the game
 - Language: Java
